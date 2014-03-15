@@ -18,7 +18,7 @@ Use following command to generate .WAR file and deploy into WSO2 Application Ser
 
 >package
 
-Go to http://localhost:9763/custom-wizard_2.9.1-0.1/i
+Go to http://localhost:9763/custom-wizard_2.9.1-0.1/
 
 
 Note - You can read more about it from original post here [blog](http://blog.fmpwizard.com/scala-lift-custom-wizard)

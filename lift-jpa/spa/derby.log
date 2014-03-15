@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Mar 15 14:43:12 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-c504-3b15-0000048e7c08 
+on database directory /Users/sagara/dev/code/wso2/wso2as-developer/scala-samples/lift-jpa/spa/lift_example with class loader sun.misc.Launcher$AppClassLoader@7987aeca 
+Loaded from file:/Users/sagara/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-462-11M4609
+user.dir=/Users/sagara/dev/code/wso2/wso2as-developer/scala-samples/lift-jpa/spa
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
